@@ -1,7 +1,5 @@
 # Glaucoma Detection using Convolutional Neural Network
 
-Created By: Lalit Agarwal
-
 ## Dataset Exploration
 - Retinal fundus image dataset for glaucoma detection obtained from [Kaggle]([Kaggle](https://www.kaggle.com/datasets/sshikamaru/glaucoma-detection)).
 - Dataset contains both glaucoma-affected (positive) and healthy (negative) retinal images.
